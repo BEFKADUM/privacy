@@ -1,0 +1,28 @@
+Large Dump Chrome extention is committed to protecting your privacy. This Chrome extension is designed to monitor large cryptocurrency transactions by accessing data from the Whale Alert API. We want to be transparent about the data we handle and how it is used.
+
+Data Collection:
+
+Large Dump does not collect, store, or transmit any personal data or personally identifiable information (PII) from users.
+The extension fetches transaction data from the Whale Alert API to provide real-time alerts. This data includes information about cryptocurrency transactions, such as the amount, value, and addresses involved. None of this data is linked to individual users.
+Data Storage:
+
+The extension uses local storage within your browser to save user preferences and transaction history for a better user experience. This data is stored on your device and is not transmitted or shared with any external servers or third parties.
+Permissions:
+
+Alarms: Used to schedule periodic checks for new transactions.
+Notifications: Used to alert you of large transactions.
+Storage: Used to save your preferences and transaction history locally within the browser.
+Host Permissions: Required to access the Whale Alert API for real-time transaction data.
+Data Sharing:
+
+Large Dump does not share any user data with third parties. The extension operates entirely within your browser, and no personal data is collected, transmitted, or sold.
+Security:
+
+We prioritize your security and have designed Large Dump to operate without requiring any personal information from users. The extension only accesses the necessary data to fulfill its purpose of monitoring large cryptocurrency transactions.
+Changes to This Privacy Statement:
+
+We may update this privacy statement from time to time. Any changes will be reflected in the extension’s details, and we encourage users to review this statement periodically.
+Contact:
+
+If you have any questions or concerns about your privacy while using Large Dump, please feel free to contact us.
+By using Large Dump, you agree to this privacy statement and understand the ways in which your data is used and protected.
