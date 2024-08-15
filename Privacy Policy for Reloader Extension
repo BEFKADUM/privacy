@@ -1,0 +1,30 @@
+Introduction
+Thank you for using the Reloader Chrome extension. Your privacy is important to us, and we are committed to protecting it. This privacy policy outlines the types of information that Reloader does and does not collect, how the extension operates, and how your privacy is safeguarded.
+
+Offline Operation
+Reloader is an entirely offline extension. It is designed to operate independently within your browser, performing its primary function of automatically refreshing web pages at user-defined intervals. All the operations conducted by Reloader occur locally on your device.
+
+No Data Collection
+Reloader does not collect, store, or transmit any personal data. The extension does not require an internet connection to function, except for the normal browsing activities of the websites you visit. Specifically, Reloader does not:
+
+Collect or store any personal information, such as your name, email address, or browsing history.
+Track or monitor your online activities or behavior.
+Share data with third parties, including advertisers, analytics services, or any other entities.
+Permissions
+Reloader requests the following permissions to fulfill its functionality:
+
+Tabs: This permission allows Reloader to identify and interact with the active tabs in your browser, enabling it to refresh pages at the intervals you specify.
+Storage: This permission is used to store your preferences, such as the URLs you want to refresh and the intervals you’ve set, ensuring a consistent experience each time you use the extension.
+These permissions are solely for the purpose of enabling Reloader to function as intended. They are not used to collect any data or share information outside of your local browser environment.
+
+Local Data Storage
+Any data that Reloader stores (such as your refresh settings) is kept locally on your device within the Chrome browser’s storage system. This data is only accessible by Reloader and is used exclusively to provide the functionality of the extension. You can manage or delete this data at any time through the extension’s options page or by removing the extension from your browser.
+
+Security
+Because Reloader does not transmit any data over the internet, the risk of data breaches or unauthorized access to your information is minimized. All operations are conducted locally on your device, and no information is ever sent to external servers or third parties.
+
+Changes to This Privacy Policy
+Any changes to this privacy policy will be reflected in updates to the extension. You are encouraged to review this policy periodically to stay informed about how your privacy is protected.
+
+Contact Us
+If you have any questions or concerns about this privacy policy or the Reloader extension, please feel free to contact us at [Your Contact Email].
