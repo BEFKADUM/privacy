@@ -1,0 +1,40 @@
+Privacy Policy for Unmasked Metrics
+
+Overview
+Unmasked Metrics is a Chrome extension that reveals hidden LinkedIn job posting metrics (such as exact applicant counts and posting dates) by reading data already available in your browser. We respect your privacy and are committed to protecting it.
+
+Information We Collect
+We do not collect, store, or transmit any personal information.
+
+All job metrics you choose to extract are stored locally in your browser using Chrome’s local storage.
+
+No data is sent to external servers or shared with third parties.
+
+How We Use Data
+Data is processed locally on your device solely for the purpose of displaying job metrics in the extension’s popup and dashboard.
+
+Saved job metrics remain accessible only to you and are not uploaded anywhere.
+
+Permissions and Their Purpose
+activeTab / scripting – Allows the extension to run scripts on the current LinkedIn job posting tab only when you click the extension icon.
+
+storage – Saves extracted job metrics locally so you can revisit them later.
+
+alarms – Refreshes saved metrics at intervals if you enable auto-refresh.
+
+host permissions (linkedin.com) – Required to read job data from LinkedIn job posting pages.
+
+Data Sharing
+We do not share, sell, or otherwise disclose your data to any third party.
+
+Third-Party Services
+Unmasked Metrics does not use analytics, tracking scripts, or advertising networks.
+
+Your Control
+You can delete all saved job metrics at any time from the extension’s dashboard.
+
+Removing the extension from Chrome automatically deletes all locally stored data.
+
+Changes to This Policy
+We may update this privacy policy if required by changes in the extension or legal obligations. Any updates will be posted at the URL provided in the Chrome Web Store listing.
+
